@@ -1,0 +1,43 @@
+Analyzed file java-solutions/info/kgeorgiy/ja/fadeev/statistic/testFiles/allInen-US.txt
+
+Summary statistic
+Number of sentences: 1.
+Number of words: 7.
+Number of numbers: 1.
+Number of money amount: 1.
+Number of dates: 1.
+
+Sentences statistic
+Number of sentences: 1 (unique: 1).
+Minimum sentence: "Today is 05/31/2021 and John has $100 and 100 friends.".
+Maximum sentence: "Today is 05/31/2021 and John has $100 and 100 friends.".
+Minimum length of sentence: 54 ("Today is 05/31/2021 and John has $100 and 100 friends.").
+Maximum length of sentence: 54 ("Today is 05/31/2021 and John has $100 and 100 friends.").
+Average length of sentence: 54.
+
+Words statistic
+Number of words: 7 (unique: 6).
+Minimum word: "and".
+Maximum word: "today".
+Minimum length of word: 2 ("is").
+Maximum length of word: 7 ("friends").
+Average length of word: 3.86.
+
+Numbers statistic
+Number of numbers: 1 (unique: 1).
+Minimum number: 100.
+Maximum number: 100.
+Average number: 100.
+
+Amount of money statistic
+Number of money amount: 1 (unique: 1).
+Minimum amount of money: $100.00.
+Maximum amount of money: $100.00.
+Average amount of money: $100.00.
+
+Date statistic
+Number of dates: 1 (unique: 1).
+Minimum date: May 31, 2021.
+Maximum date: May 31, 2021.
+Average date: May 31, 2021.
+

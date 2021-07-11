@@ -1,0 +1,43 @@
+Analyzed file java-solutions/info/kgeorgiy/ja/fadeev/statistic/testFiles/sentencesInja-JP.txt
+
+Summary statistic
+Number of sentences: 3.
+Number of words: 7.
+Number of numbers: 1.
+Number of money amount: 0.
+Number of dates: 0.
+
+Sentences statistic
+Number of sentences: 3 (unique: 3).
+Minimum sentence: "13 宿題。".
+Maximum sentence: "統計をテストします。".
+Minimum length of sentence: 6 ("13 宿題。").
+Maximum length of sentence: 10 ("統計をテストします。").
+Average length of sentence: 8.
+
+Words statistic
+Number of words: 7 (unique: 7).
+Minimum word: "こんにちは".
+Maximum word: "統計".
+Minimum length of word: 1 ("を").
+Maximum length of word: 5 ("こんにちは").
+Average length of word: 2.57.
+
+Numbers statistic
+Number of numbers: 1 (unique: 1).
+Minimum number: 13.
+Maximum number: 13.
+Average number: 13.
+
+Amount of money statistic
+Number of money amount: 0 (unique: 0).
+Minimum amount of money: N/A.
+Maximum amount of money: N/A.
+Average amount of money: N/A.
+
+Date statistic
+Number of dates: 0 (unique: 0).
+Minimum date: N/A.
+Maximum date: N/A.
+Average date: N/A.
+

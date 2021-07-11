@@ -1,0 +1,75 @@
+Анализируемый файл java-solutions/info/kgeorgiy/ja/fadeev/statistic/testFiles/wordsInen-US.txt
+
+Сводная статистика
+Число предложений: 1.
+Число слов: 43.
+Число чисел: 0.
+Число сумм: 0.
+Число дат: 0.
+
+Статистика по предложениям
+Число предложений: 1 (уникальных: 1).
+Минимальное предложение: "Load up on guns, bring your friends
+It's fun to lose and to pretend
+She's over-bored and self-assured
+Oh no, I know a dirty word
+
+Hello, hello, hello, how low
+Hello, hello, hello, how low
+Hello, hello, hello, how low
+Hello, hello, hello".
+Максимальное предложение: "Load up on guns, bring your friends
+It's fun to lose and to pretend
+She's over-bored and self-assured
+Oh no, I know a dirty word
+
+Hello, hello, hello, how low
+Hello, hello, hello, how low
+Hello, hello, hello, how low
+Hello, hello, hello".
+Минимальная длина предложения: 244 ("Load up on guns, bring your friends
+It's fun to lose and to pretend
+She's over-bored and self-assured
+Oh no, I know a dirty word
+
+Hello, hello, hello, how low
+Hello, hello, hello, how low
+Hello, hello, hello, how low
+Hello, hello, hello").
+Максимальная длина предложения: 244 ("Load up on guns, bring your friends
+It's fun to lose and to pretend
+She's over-bored and self-assured
+Oh no, I know a dirty word
+
+Hello, hello, hello, how low
+Hello, hello, hello, how low
+Hello, hello, hello, how low
+Hello, hello, hello").
+Средняя длина предложения: 244.
+
+Статистика по словам
+Число слов: 43 (уникальных: 26).
+Минимальное слово: "a".
+Максимальное слово: "your".
+Минимальная длина слова: 1 ("i").
+Максимальная длина слова: 12 ("self-assured").
+Средняя длина слова: 4,19.
+
+Статистика по числам
+Число чисел: 0 (уникальных: 0).
+Минимальное число: Н/Д.
+Максимальное число: Н/Д.
+Среднее число: Н/Д.
+
+Статистика по суммам денег
+Число сумм: 0 (уникальных: 0).
+Минимальная сумма: Н/Д.
+Максимальная сумма: Н/Д.
+Средняя сумма: Н/Д.
+
+Статистика по датам
+Число дат: 0 (уникальных: 0).
+Минимальная дата: Н/Д.
+Максимальная дата: Н/Д.
+Средняя дата: Н/Д.
+

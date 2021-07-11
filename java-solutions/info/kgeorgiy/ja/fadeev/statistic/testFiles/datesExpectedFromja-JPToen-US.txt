@@ -1,0 +1,55 @@
+Analyzed file java-solutions/info/kgeorgiy/ja/fadeev/statistic/testFiles/datesInja-JP.txt
+
+Summary statistic
+Number of sentences: 1.
+Number of words: 0.
+Number of numbers: 0.
+Number of money amount: 0.
+Number of dates: 4.
+
+Sentences statistic
+Number of sentences: 1 (unique: 1).
+Minimum sentence: "2021/05/31
+2021/06/01
+2021年5月31日月曜日
+2021年5月31日".
+Maximum sentence: "2021/05/31
+2021/06/01
+2021年5月31日月曜日
+2021年5月31日".
+Minimum length of sentence: 49 ("2021/05/31
+2021/06/01
+2021年5月31日月曜日
+2021年5月31日").
+Maximum length of sentence: 49 ("2021/05/31
+2021/06/01
+2021年5月31日月曜日
+2021年5月31日").
+Average length of sentence: 49.
+
+Words statistic
+Number of words: 0 (unique: 0).
+Minimum word: N/A.
+Maximum word: N/A.
+Minimum length of word: 0 (N/A).
+Maximum length of word: 0 (N/A).
+Average length of word: N/A.
+
+Numbers statistic
+Number of numbers: 0 (unique: 0).
+Minimum number: N/A.
+Maximum number: N/A.
+Average number: N/A.
+
+Amount of money statistic
+Number of money amount: 0 (unique: 0).
+Minimum amount of money: N/A.
+Maximum amount of money: N/A.
+Average amount of money: N/A.
+
+Date statistic
+Number of dates: 4 (unique: 2).
+Minimum date: May 31, 2021.
+Maximum date: June 1, 2021.
+Average date: May 31, 2021.
+

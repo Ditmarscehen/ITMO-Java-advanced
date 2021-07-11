@@ -1,0 +1,75 @@
+Analyzed file java-solutions/info/kgeorgiy/ja/fadeev/statistic/testFiles/wordsInen-US.txt
+
+Summary statistic
+Number of sentences: 1.
+Number of words: 43.
+Number of numbers: 0.
+Number of money amount: 0.
+Number of dates: 0.
+
+Sentences statistic
+Number of sentences: 1 (unique: 1).
+Minimum sentence: "Load up on guns, bring your friends
+It's fun to lose and to pretend
+She's over-bored and self-assured
+Oh no, I know a dirty word
+
+Hello, hello, hello, how low
+Hello, hello, hello, how low
+Hello, hello, hello, how low
+Hello, hello, hello".
+Maximum sentence: "Load up on guns, bring your friends
+It's fun to lose and to pretend
+She's over-bored and self-assured
+Oh no, I know a dirty word
+
+Hello, hello, hello, how low
+Hello, hello, hello, how low
+Hello, hello, hello, how low
+Hello, hello, hello".
+Minimum length of sentence: 244 ("Load up on guns, bring your friends
+It's fun to lose and to pretend
+She's over-bored and self-assured
+Oh no, I know a dirty word
+
+Hello, hello, hello, how low
+Hello, hello, hello, how low
+Hello, hello, hello, how low
+Hello, hello, hello").
+Maximum length of sentence: 244 ("Load up on guns, bring your friends
+It's fun to lose and to pretend
+She's over-bored and self-assured
+Oh no, I know a dirty word
+
+Hello, hello, hello, how low
+Hello, hello, hello, how low
+Hello, hello, hello, how low
+Hello, hello, hello").
+Average length of sentence: 244.
+
+Words statistic
+Number of words: 43 (unique: 26).
+Minimum word: "a".
+Maximum word: "your".
+Minimum length of word: 1 ("i").
+Maximum length of word: 12 ("self-assured").
+Average length of word: 4.19.
+
+Numbers statistic
+Number of numbers: 0 (unique: 0).
+Minimum number: N/A.
+Maximum number: N/A.
+Average number: N/A.
+
+Amount of money statistic
+Number of money amount: 0 (unique: 0).
+Minimum amount of money: N/A.
+Maximum amount of money: N/A.
+Average amount of money: N/A.
+
+Date statistic
+Number of dates: 0 (unique: 0).
+Minimum date: N/A.
+Maximum date: N/A.
+Average date: N/A.
+

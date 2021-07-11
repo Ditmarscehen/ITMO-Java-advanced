@@ -1,0 +1,55 @@
+Analyzed file java-solutions/info/kgeorgiy/ja/fadeev/statistic/testFiles/datesInru-RU.txt
+
+Summary statistic
+Number of sentences: 1.
+Number of words: 0.
+Number of numbers: 0.
+Number of money amount: 0.
+Number of dates: 4.
+
+Sentences statistic
+Number of sentences: 1 (unique: 1).
+Minimum sentence: "31.05.2021
+01.06.2021
+31 мая 2021 г.,
+Понедельник, 31 мая 2021 г.".
+Maximum sentence: "31.05.2021
+01.06.2021
+31 мая 2021 г.,
+Понедельник, 31 мая 2021 г.".
+Minimum length of sentence: 68 ("31.05.2021
+01.06.2021
+31 мая 2021 г.,
+Понедельник, 31 мая 2021 г.").
+Maximum length of sentence: 68 ("31.05.2021
+01.06.2021
+31 мая 2021 г.,
+Понедельник, 31 мая 2021 г.").
+Average length of sentence: 68.
+
+Words statistic
+Number of words: 0 (unique: 0).
+Minimum word: N/A.
+Maximum word: N/A.
+Minimum length of word: 0 (N/A).
+Maximum length of word: 0 (N/A).
+Average length of word: N/A.
+
+Numbers statistic
+Number of numbers: 0 (unique: 0).
+Minimum number: N/A.
+Maximum number: N/A.
+Average number: N/A.
+
+Amount of money statistic
+Number of money amount: 0 (unique: 0).
+Minimum amount of money: N/A.
+Maximum amount of money: N/A.
+Average amount of money: N/A.
+
+Date statistic
+Number of dates: 4 (unique: 2).
+Minimum date: May 31, 2021.
+Maximum date: June 1, 2021.
+Average date: May 31, 2021.
+

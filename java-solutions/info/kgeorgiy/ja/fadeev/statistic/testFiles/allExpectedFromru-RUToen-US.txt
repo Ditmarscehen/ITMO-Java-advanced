@@ -1,0 +1,43 @@
+Analyzed file java-solutions/info/kgeorgiy/ja/fadeev/statistic/testFiles/allInru-RU.txt
+
+Summary statistic
+Number of sentences: 1.
+Number of words: 5.
+Number of numbers: 1.
+Number of money amount: 1.
+Number of dates: 1.
+
+Sentences statistic
+Number of sentences: 1 (unique: 1).
+Minimum sentence: "Сегодня 31.05.2021, у Ивана 100 ₽ и 100 друзей.".
+Maximum sentence: "Сегодня 31.05.2021, у Ивана 100 ₽ и 100 друзей.".
+Minimum length of sentence: 47 ("Сегодня 31.05.2021, у Ивана 100 ₽ и 100 друзей.").
+Maximum length of sentence: 47 ("Сегодня 31.05.2021, у Ивана 100 ₽ и 100 друзей.").
+Average length of sentence: 47.
+
+Words statistic
+Number of words: 5 (unique: 5).
+Minimum word: "друзей".
+Maximum word: "у".
+Minimum length of word: 1 ("у").
+Maximum length of word: 7 ("сегодня").
+Average length of word: 4.
+
+Numbers statistic
+Number of numbers: 1 (unique: 1).
+Minimum number: 100.
+Maximum number: 100.
+Average number: 100.
+
+Amount of money statistic
+Number of money amount: 1 (unique: 1).
+Minimum amount of money: 100,00 ₽.
+Maximum amount of money: 100,00 ₽.
+Average amount of money: 100,00 ₽.
+
+Date statistic
+Number of dates: 1 (unique: 1).
+Minimum date: May 31, 2021.
+Maximum date: May 31, 2021.
+Average date: May 31, 2021.
+

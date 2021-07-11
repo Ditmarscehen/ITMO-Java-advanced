@@ -1,0 +1,43 @@
+Analyzed file java-solutions/info/kgeorgiy/ja/fadeev/statistic/testFiles/sentencesInen-US.txt
+
+Summary statistic
+Number of sentences: 3.
+Number of words: 6.
+Number of numbers: 1.
+Number of money amount: 0.
+Number of dates: 0.
+
+Sentences statistic
+Number of sentences: 3 (unique: 3).
+Minimum sentence: "Hello, World!".
+Maximum sentence: "Test for statistic.".
+Minimum length of sentence: 12 ("Homework 13.").
+Maximum length of sentence: 19 ("Test for statistic.").
+Average length of sentence: 14.67.
+
+Words statistic
+Number of words: 6 (unique: 6).
+Minimum word: "for".
+Maximum word: "world".
+Minimum length of word: 3 ("for").
+Maximum length of word: 9 ("statistic").
+Average length of word: 5.67.
+
+Numbers statistic
+Number of numbers: 1 (unique: 1).
+Minimum number: 13.
+Maximum number: 13.
+Average number: 13.
+
+Amount of money statistic
+Number of money amount: 0 (unique: 0).
+Minimum amount of money: N/A.
+Maximum amount of money: N/A.
+Average amount of money: N/A.
+
+Date statistic
+Number of dates: 0 (unique: 0).
+Minimum date: N/A.
+Maximum date: N/A.
+Average date: N/A.
+

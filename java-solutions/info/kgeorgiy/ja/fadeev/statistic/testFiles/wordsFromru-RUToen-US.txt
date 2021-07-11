@@ -1,0 +1,49 @@
+Analyzed file java-solutions/info/kgeorgiy/ja/fadeev/statistic/testFiles/wordsInru-RU.txt
+
+Summary statistic
+Number of sentences: 5.
+Number of words: 72.
+Number of numbers: 0.
+Number of money amount: 0.
+Number of dates: 0.
+
+Sentences statistic
+Number of sentences: 5 (unique: 5).
+Minimum sentence: "Про то, что телефон звонил, хотел, чтобы я встал,
+Оделся и пошел, а точнее, побежал,
+Но только я его послал,
+Сказал, что болен и устал, и эту ночь не спал.".
+Maximum sentence: "Я жду ответа, больше надежд нету.".
+Minimum length of sentence: 4 ("Это…").
+Maximum length of sentence: 163 ("Я выключаю телевизор, я пишу тебе письмо
+Про то, что больше не могу смотреть на дерьмо,
+Про то, что больше нет сил,
+Про то, что я почти запил, но не забыл тебя.").
+Average length of sentence: 75.6.
+
+Words statistic
+Number of words: 72 (unique: 50).
+Minimum word: "а".
+Maximum word: "я".
+Minimum length of word: 1 ("я").
+Maximum length of word: 9 ("телевизор").
+Average length of word: 3.92.
+
+Numbers statistic
+Number of numbers: 0 (unique: 0).
+Minimum number: N/A.
+Maximum number: N/A.
+Average number: N/A.
+
+Amount of money statistic
+Number of money amount: 0 (unique: 0).
+Minimum amount of money: N/A.
+Maximum amount of money: N/A.
+Average amount of money: N/A.
+
+Date statistic
+Number of dates: 0 (unique: 0).
+Minimum date: N/A.
+Maximum date: N/A.
+Average date: N/A.
+

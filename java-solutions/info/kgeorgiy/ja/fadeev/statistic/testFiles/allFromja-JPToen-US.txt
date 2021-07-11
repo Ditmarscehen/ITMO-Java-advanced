@@ -1,0 +1,43 @@
+Analyzed file java-solutions/info/kgeorgiy/ja/fadeev/statistic/testFiles/allInja-JP.txt
+
+Summary statistic
+Number of sentences: 1.
+Number of words: 11.
+Number of numbers: 1.
+Number of money amount: 1.
+Number of dates: 1.
+
+Sentences statistic
+Number of sentences: 1 (unique: 1).
+Minimum sentence: "今日は05/31/2021であり、ジョンは￥100と100の友人を持っています。".
+Maximum sentence: "今日は05/31/2021であり、ジョンは￥100と100の友人を持っています。".
+Minimum length of sentence: 40 ("今日は05/31/2021であり、ジョンは￥100と100の友人を持っています。").
+Maximum length of sentence: 40 ("今日は05/31/2021であり、ジョンは￥100と100の友人を持っています。").
+Average length of sentence: 40.
+
+Words statistic
+Number of words: 11 (unique: 10).
+Minimum word: "ジョン".
+Maximum word: "友人".
+Minimum length of word: 1 ("は").
+Maximum length of word: 5 ("っています").
+Average length of word: 1.91.
+
+Numbers statistic
+Number of numbers: 1 (unique: 1).
+Minimum number: 100.
+Maximum number: 100.
+Average number: 100.
+
+Amount of money statistic
+Number of money amount: 1 (unique: 1).
+Minimum amount of money: ￥100.
+Maximum amount of money: ￥100.
+Average amount of money: ￥100.
+
+Date statistic
+Number of dates: 1 (unique: 1).
+Minimum date: January 10, 2013.
+Maximum date: January 10, 2013.
+Average date: January 10, 2013.
+

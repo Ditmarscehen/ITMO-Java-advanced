@@ -1,0 +1,47 @@
+Analyzed file java-solutions/info/kgeorgiy/ja/fadeev/statistic/testFiles/moneyInja-JP.txt
+
+Summary statistic
+Number of sentences: 1.
+Number of words: 0.
+Number of numbers: 0.
+Number of money amount: 2.
+Number of dates: 0.
+
+Sentences statistic
+Number of sentences: 1 (unique: 1).
+Minimum sentence: "￥100
+￥100,12".
+Maximum sentence: "￥100
+￥100,12".
+Minimum length of sentence: 13 ("￥100
+￥100,12").
+Maximum length of sentence: 13 ("￥100
+￥100,12").
+Average length of sentence: 13.
+
+Words statistic
+Number of words: 0 (unique: 0).
+Minimum word: N/A.
+Maximum word: N/A.
+Minimum length of word: 0 (N/A).
+Maximum length of word: 0 (N/A).
+Average length of word: N/A.
+
+Numbers statistic
+Number of numbers: 0 (unique: 0).
+Minimum number: N/A.
+Maximum number: N/A.
+Average number: N/A.
+
+Amount of money statistic
+Number of money amount: 2 (unique: 2).
+Minimum amount of money: ￥100.
+Maximum amount of money: ￥10,012.
+Average amount of money: ￥5,056.
+
+Date statistic
+Number of dates: 0 (unique: 0).
+Minimum date: N/A.
+Maximum date: N/A.
+Average date: N/A.
+

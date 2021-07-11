@@ -1,0 +1,51 @@
+Analyzed file java-solutions/info/kgeorgiy/ja/fadeev/statistic/testFiles/numbersInen-US.txt
+
+Summary statistic
+Number of sentences: 1.
+Number of words: 0.
+Number of numbers: 3.
+Number of money amount: 0.
+Number of dates: 0.
+
+Sentences statistic
+Number of sentences: 1 (unique: 1).
+Minimum sentence: "100
+200
+300.5".
+Maximum sentence: "100
+200
+300.5".
+Minimum length of sentence: 15 ("100
+200
+300.5").
+Maximum length of sentence: 15 ("100
+200
+300.5").
+Average length of sentence: 15.
+
+Words statistic
+Number of words: 0 (unique: 0).
+Minimum word: N/A.
+Maximum word: N/A.
+Minimum length of word: 0 (N/A).
+Maximum length of word: 0 (N/A).
+Average length of word: N/A.
+
+Numbers statistic
+Number of numbers: 3 (unique: 3).
+Minimum number: 100.
+Maximum number: 300.5.
+Average number: 200.17.
+
+Amount of money statistic
+Number of money amount: 0 (unique: 0).
+Minimum amount of money: N/A.
+Maximum amount of money: N/A.
+Average amount of money: N/A.
+
+Date statistic
+Number of dates: 0 (unique: 0).
+Minimum date: N/A.
+Maximum date: N/A.
+Average date: N/A.
+

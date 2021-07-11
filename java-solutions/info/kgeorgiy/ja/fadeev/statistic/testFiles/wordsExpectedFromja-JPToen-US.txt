@@ -1,0 +1,67 @@
+Analyzed file java-solutions/info/kgeorgiy/ja/fadeev/statistic/testFiles/wordsInja-JP.txt
+
+Summary statistic
+Number of sentences: 1.
+Number of words: 40.
+Number of numbers: 0.
+Number of money amount: 0.
+Number of dates: 0.
+
+Sentences statistic
+Number of sentences: 1 (unique: 1).
+Minimum sentence: "残酷な 天使 の よう に
+少年よ 神話 に なれ
+蒼い風がいま 胸のドアを叩いても
+私 だけをただ見つめて
+微笑んでる あなた
+そっとふれるもの もとめ ることに 夢中で
+運命 さえ まだ 知らない いたいけな 瞳".
+Maximum sentence: "残酷な 天使 の よう に
+少年よ 神話 に なれ
+蒼い風がいま 胸のドアを叩いても
+私 だけをただ見つめて
+微笑んでる あなた
+そっとふれるもの もとめ ることに 夢中で
+運命 さえ まだ 知らない いたいけな 瞳".
+Minimum length of sentence: 114 ("残酷な 天使 の よう に
+少年よ 神話 に なれ
+蒼い風がいま 胸のドアを叩いても
+私 だけをただ見つめて
+微笑んでる あなた
+そっとふれるもの もとめ ることに 夢中で
+運命 さえ まだ 知らない いたいけな 瞳").
+Maximum length of sentence: 114 ("残酷な 天使 の よう に
+少年よ 神話 に なれ
+蒼い風がいま 胸のドアを叩いても
+私 だけをただ見つめて
+微笑んでる あなた
+そっとふれるもの もとめ ることに 夢中で
+運命 さえ まだ 知らない いたいけな 瞳").
+Average length of sentence: 114.
+
+Words statistic
+Number of words: 40 (unique: 38).
+Minimum word: "あなた".
+Maximum word: "夢中".
+Minimum length of word: 1 ("な").
+Maximum length of word: 8 ("そっとふれるもの").
+Average length of word: 2.1.
+
+Numbers statistic
+Number of numbers: 0 (unique: 0).
+Minimum number: N/A.
+Maximum number: N/A.
+Average number: N/A.
+
+Amount of money statistic
+Number of money amount: 0 (unique: 0).
+Minimum amount of money: N/A.
+Maximum amount of money: N/A.
+Average amount of money: N/A.
+
+Date statistic
+Number of dates: 0 (unique: 0).
+Minimum date: N/A.
+Maximum date: N/A.
+Average date: N/A.
+
