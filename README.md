@@ -63,6 +63,7 @@ java Walk <входной файл> <выходной файл>
 Проверяется исходный код задания.
 Весь код должен находиться в пакете info.kgeorgiy.ja.фамилия.walk.
 Тесты к домашним заданиям
+[Решение](https://github.com/Ditmarscehen/ITMO-Java-advanced/tree/main/java-solutions/info/kgeorgiy/ja/fadeev/walk)
 
 ## Домашнее задание 2. Множество на массиве
 Разработайте класс ArraySet, реализующие неизменяемое упорядоченное множество.
@@ -71,6 +72,7 @@ java Walk <входной файл> <выходной файл>
 При выполнении задания следует обратить внимание на:
 Применение стандартных коллекций.
 Избавление от повторяющегося кода.
+[Решение](https://github.com/Ditmarscehen/ITMO-Java-advanced/tree/main/java-solutions/info/kgeorgiy/ja/fadeev/arrayset)
 
 ## Домашнее задание 3. Студенты
 Разработайте класс StudentDB, осуществляющий поиск по базе данных студентов.
@@ -79,6 +81,7 @@ java Walk <входной файл> <выходной файл>
 При выполнении задания следует обратить внимание на:
 применение лямбда-выражений и потоков;
 избавление от повторяющегося кода.
+[Решение](https://github.com/Ditmarscehen/ITMO-Java-advanced/tree/main/java-solutions/info/kgeorgiy/ja/fadeev/student)
 
 ## Домашнее задание 4. Implementor
 Реализуйте класс Implementor, который будет генерировать реализации классов и интерфейсов.
@@ -89,6 +92,7 @@ java Walk <входной файл> <выходной файл>
 Методы сгенерированного класса должны игнорировать свои аргументы и возвращать значения по умолчанию.
 В задании выделяются три варианта:
 Простой — Implementor должен уметь реализовывать только интерфейсы (но не классы). Поддержка generics не требуется.
+[Решение](https://github.com/Ditmarscehen/ITMO-Java-advanced/tree/main/java-solutions/info/kgeorgiy/ja/fadeev/implementor)
 
 ## Домашнее задание 5. Jar Implementor
 Создайте .jar-файл, содержащий скомпилированный Implementor и сопутствующие классы.
@@ -100,6 +104,7 @@ java Walk <входной файл> <выходной файл>
 запускаемый .jar-файл.
 Данное домашнее задание сдается только вместе с предыдущим. Предыдущее домашнее задание отдельно сдать будет нельзя.
 Сложный вариант. Решение должно быть модуляризовано.
+[Решение](https://github.com/Ditmarscehen/ITMO-Java-advanced/tree/main/java-solutions/info/kgeorgiy/ja/fadeev/implementor)
 
 ## Домашнее задание 6. Javadoc
 Документируйте класс Implementor и сопутствующие классы с применением Javadoc.
@@ -110,6 +115,7 @@ java Walk <входной файл> <выходной файл>
 скрипт для генерации документации;
 сгенерированная документация.
 Данное домашнее задание сдается только вместе с предыдущим. Предыдущее домашнее задание отдельно сдать будет нельзя.
+[Решение](https://github.com/Ditmarscehen/ITMO-Java-advanced/tree/main/java-solutions/info/kgeorgiy/ja/fadeev/implementor)
 
 ## Домашнее задание 7. Итеративный параллелизм
 Реализуйте класс IterativeParallelism, который будет обрабатывать списки в несколько потоков.
@@ -126,6 +132,7 @@ join(threads, list) — конкатенация строковых предст
 Не следует рассчитывать на то, что переданные компараторы, предикаты и функции работают быстро.
 При выполнении задания нельзя использовать Concurrency Utilities.
 Рекомендуется подумать, какое отношение к заданию имеют моноиды.
+[Решение](https://github.com/Ditmarscehen/ITMO-Java-advanced/tree/main/java-solutions/info/kgeorgiy/ja/fadeev/concurrent)
 
 ## Домашнее задание 8. Параллельный запуск
 Напишите класс ParallelMapperImpl, реализующий интерфейс ParallelMapper.
@@ -149,6 +156,7 @@ public interface ParallelMapper extends AutoCloseable {
 Методы класса должны делить работу на threads фрагментов и исполнять их при помощи ParallelMapper.
 При наличии ParallelMapper сам IterativeParallelism новые потоки создавать не должен.
 Должна быть возможность одновременного запуска и работы нескольких клиентов, использующих один ParallelMapper.
+[Решение](https://github.com/Ditmarscehen/ITMO-Java-advanced/tree/main/java-solutions/info/kgeorgiy/ja/fadeev/concurrent)
 
 ## Домашнее задание 9. Web Crawler
 Напишите потокобезопасный класс WebCrawler, который будет рекурсивно обходить сайты.
@@ -192,6 +200,7 @@ WebCrawler url [depth [downloads [extractors [perHost]]]]
 Простая — не требуется учитывать ограничения на число одновременных закачек с одного хоста (perHost >= downloaders).
 Полная — требуется учитывать все ограничения.
 Бонусная — сделать параллельный обод в ширину.
+[Решение](https://github.com/Ditmarscehen/ITMO-Java-advanced/tree/main/java-solutions/info/kgeorgiy/ja/fadeev/crawler)
 
 ## Домашнее задание 10. HelloUDP
 Реализуйте клиент и сервер, взаимодействующие по UDP.
@@ -210,6 +219,7 @@ WebCrawler url [depth [downloads [extractors [perHost]]]]
 число рабочих потоков, которые будут обрабатывать запросы.
 Ответом на запрос должно быть Hello, <текст запроса>.
 Если сервер не успевает обрабатывать запросы, прием запросов может быть временно приостановлен.
+[Решение](https://github.com/Ditmarscehen/ITMO-Java-advanced/tree/main/java-solutions/info/kgeorgiy/ja/fadeev/hello)
 
 ## Домашнее задание 11. Физические лица
 Добавьте к банковскому приложению возможность работы с физическими лицами.
@@ -237,6 +247,7 @@ Jar-файлы используемых библиотек надо класть
 Создайте класс BankTests, запускающий тесты.
 Создайте скрипт, запускающий BankTests и возвращающий код (статус) 0 в случае успеха и 1 в случае неудачи.
 Создайте скрипт, запускающий тесты с использованием стандартного подхода для вашего тестового фреймворка. Код возврата должен быть как в предыдущем пункте.
+[Решение](https://github.com/Ditmarscehen/ITMO-Java-advanced/tree/main/java-solutions/info/kgeorgiy/ja/fadeev/bank)
 
 ## Домашнее задание 13. Статистика текста
 Создайте приложение TextStatistics, анализирующее тексты на различных языках.
@@ -307,3 +318,4 @@ Jar-файлы используемых библиотек надо класть
 Для реализации тестов рекомендуется использовать JUnit (Tutorial). Множество примеров использования можно найти в тестах.
 Если вы знакомы с другим тестовым фреймворком (например, TestNG), то можете использовать его.
 Использовать самописные фреймворки и тесты запускаемые через main нельзя.
+[Решение](https://github.com/Ditmarscehen/ITMO-Java-advanced/tree/main/java-solutions/info/kgeorgiy/ja/fadeev/statistic)
